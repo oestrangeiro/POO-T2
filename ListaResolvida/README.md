@@ -26,32 +26,32 @@
     </details>
     <hr>
     
-   <details><summary> <a href="https://github.com/Ameninadogorro/POO-T1/blob/main/Project/src/principal/questao2.java" target="_blank" rel="external">Questão 02</a></summary>
+   <details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-2023.1/tree/main/ListaResolvida/q2/src/br/edu/principal" target="_blank" rel="external">Questão 02</a></summary>
     <p> Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas.
    </p>
     </details>
     <hr>
     
- <details><summary> <a href="https://github.com/Ameninadogorro/POO-T1/blob/main/Project/src/principal/questao3.java" target="_blank" rel="external">Questão 03</a></summary>
+ <details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-2023.1/tree/main/ListaResolvida/q3/src/br/edu/principal" target="_blank" rel="external">Questão 03</a></summary>
     <p> Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre uma média ponderada dessas notas.
    </p>
     </details>
     <hr>
  
-<details><summary> <a href="https://github.com/Ameninadogorro/POO-T1/blob/main/Project/src/principal/questao4.java" target="_blank" rel="external">Questão 05</a> </summary>
+<details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-2023.1/tree/main/ListaResolvida/q5/src/br/edu/principal" target="_blank" rel="external">Questão 05</a> </summary>
     <p> Faça um programa que receba o salário de um funcionario, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
    </p>
     </details>
     <hr>
     
  
-  <details><summary> <a href="https://github.com/Ameninadogorro/POO-T1/blob/main/Project/src/principal/questao5.java" target="_blank" rel="external">Questão 17</a>  </summary>
+  <details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-2023.1/tree/main/ListaResolvida/q17/src/br/edu/principal" target="_blank" rel="external">Questão 17</a>  </summary>
     <p> Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e do novo salário.
    </p>
     </details>
     <hr>
     
-  <details><summary> <a href="https://github.com/Ameninadogorro/POO-T1/blob/main/Project/src/principal/questao8.java" target="_blank" rel="external">Questão 25</a>  </summary>
+  <details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-2023.1/tree/main/ListaResolvida/q25/src/br/edu/principal" target="_blank" rel="external">Questão 25</a>  </summary>
     <p> Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento
    </p>
     </details>
