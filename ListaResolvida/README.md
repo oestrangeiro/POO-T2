@@ -26,8 +26,8 @@
     </details>
     <hr>
     
-   <details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-2023.1/tree/main/ListaResolvida/q2/src/br/edu/principal" target="_blank" rel="external">Questão 02</a></summary>
-    <p> Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas.
+   <details><summary> <a href="https://github.com/oestrangeiro/Disc-POO-T2/tree/main/ListaResolvida/q2/src/br/edu/principal" target="_blank" rel="external">Questão 02</a></summary>
+    <p> Teste
    </p>
     </details>
     <hr>
